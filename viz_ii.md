@@ -245,4 +245,7 @@ options(
    ggplot2.continuous.colour = "viridis" ,
    ggplot2.continuous. fill = "viridis"
 )
+
+scale_colour_discrete = scale_color_vifidis_d
+scale_fill_discrete = scale_fill_viridis_d
 ```
