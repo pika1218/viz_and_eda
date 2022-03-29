@@ -1,4 +1,4 @@
-viz\_i
+viz_i
 ================
 3/14/2022
 
@@ -322,12 +322,12 @@ tmax_tmin_p + (precp_dens_p + tmax_date_p)
     ## `geom_smooth()` using method = 'loess' and formula 'y ~ x'
 
     ## Warning: Removed 3 rows containing non-finite values (stat_smooth).
-    
+
     ## Warning: Removed 3 rows containing missing values (geom_point).
 
 ![](viz_ii_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
 
-\#\#Data manipulation
+\##Data manipulation
 
 Control your factors.
 
@@ -363,7 +363,7 @@ weather_df %>%
 
 ![](viz_ii_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
 
-\#\#Revisit the pups
+\##Revisit the pups
 
 Data from the FAS study
 
